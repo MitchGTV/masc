@@ -1,4 +1,4 @@
-# Regency Consultancy Energy Group
+# MASC
 
 Laravel Website for Regency Consultancy Energy Group. 
 
