@@ -1,5 +1,5 @@
 <header class="navbar navbar-expand-lg fixed-top bg-light">
-    <div class="container"><a class="navbar-brand pe-sm-3" href="{{ route('home') }}">Regency</a>
+    <div class="container"><a class="navbar-brand pe-sm-3" href="{{ route('home') }}">MASC 2606</a>
         <div class="form-check form-switch mode-switch order-lg-2 me-3 me-lg-4 ms-auto" data-bs-toggle="mode">
             <input class="form-check-input" type="checkbox" id="theme-mode">
             <label class="form-check-label" for="theme-mode"><i class="ai-sun fs-lg"></i></label>

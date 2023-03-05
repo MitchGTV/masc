@@ -1102,9 +1102,6 @@ select {
 .prose > :last-child {
 	margin-bottom: 0;
 }
-.visible {
-	visibility: visible;
-}
 .fixed {
 	position: fixed;
 }
@@ -1145,13 +1142,17 @@ select {
 	margin-left: auto;
 	margin-right: auto;
 }
-.mx-2 {
-	margin-left: 0.5rem;
-	margin-right: 0.5rem;
+.mx-4 {
+	margin-left: 1rem;
+	margin-right: 1rem;
 }
 .mx-3 {
 	margin-left: 0.75rem;
 	margin-right: 0.75rem;
+}
+.mx-2 {
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
 }
 .ml-3 {
 	margin-left: 0.75rem;
@@ -1237,9 +1238,6 @@ select {
 .mb-1 {
 	margin-bottom: 0.25rem;
 }
-.mt-auto {
-	margin-top: auto;
-}
 .mb-5 {
 	margin-bottom: 1.25rem;
 }
@@ -1287,9 +1285,6 @@ select {
 }
 .h-20 {
 	height: 5rem;
-}
-.h-auto {
-	height: auto;
 }
 .min-h-screen {
 	min-height: 100vh;
@@ -1615,14 +1610,14 @@ select {
 .p-6 {
 	padding: 1.5rem;
 }
+.p-0 {
+	padding: 0px;
+}
 .p-5 {
 	padding: 1.25rem;
 }
 .p-4 {
 	padding: 1rem;
-}
-.p-0 {
-	padding: 0px;
 }
 .px-4 {
 	padding-left: 1rem;
@@ -1717,14 +1712,11 @@ select {
 .pt-8 {
 	padding-top: 2rem;
 }
-.pt-3 {
-	padding-top: 0.75rem;
-}
 .pb-2 {
 	padding-bottom: 0.5rem;
 }
-.pb-5 {
-	padding-bottom: 1.25rem;
+.pt-3 {
+	padding-top: 0.75rem;
 }
 .text-left {
 	text-align: left;
@@ -2169,6 +2161,10 @@ select {
 		margin-left: 1.5rem;
 	}
 
+	.sm\:ml-0 {
+		margin-left: 0px;
+	}
+
 	.sm\:block {
 		display: block;
 	}
@@ -2183,6 +2179,10 @@ select {
 
 	.sm\:h-10 {
 		height: 2.5rem;
+	}
+
+	.sm\:h-20 {
+		height: 5rem;
 	}
 
 	.sm\:w-10 {
@@ -2307,6 +2307,10 @@ select {
 
 	.sm\:text-left {
 		text-align: left;
+	}
+
+	.sm\:text-right {
+		text-align: right;
 	}
 }
 @media (min-width: 768px) {

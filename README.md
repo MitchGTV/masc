@@ -1,8 +1,8 @@
-# MASC
+# MASC 2606
 
-Laravel Website for Regency Consultancy Energy Group. 
+Laravel Website for MASC 2606
 
-### How to install regency for development
+### How to install masc for development
 
 ### Run the commands listed below in the order they are displayed.
 
