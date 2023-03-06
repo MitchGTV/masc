@@ -20,7 +20,7 @@
                 <div class="card border-0 h-100">
                     <div class="card-body">
                         <h4 class="card-title mb-4">Address</h4>
-                        <p class="fs-lg fw-medium pb-3 mb-3">514 Magnolia St. Orlando, FL 32806</p><a class="btn btn-sm btn-outline-primary" href="#"><i class="ai-map-pin me-1"></i>Get directions</a>
+                        <p class="fs-lg fw-medium pb-3 mb-3">54a Main Street, Cockermouth, Cumbria, England, CA13 9LU</p><a class="btn btn-sm btn-outline-primary" target="_blank" href="https://goo.gl/maps/o1PhnefewxchPZ6K6"><i class="ai-map-pin me-1"></i>Get directions</a>
                     </div>
                 </div>
             </div>
@@ -30,8 +30,7 @@
                     <div class="card-body">
                         <h4 class="card-title mb-4">Phone</h4>
                         <ul class="list-unstyled mb-0">
-                            <li class="pb-1 mb-2"><span class="d-block fs-sm text-muted mb-1">Main office</span><a class="nav-link fs-lg p-0" href="tel:+178632256033">+1 (786) 322 560 33</a></li>
-                            <li><span class="d-block fs-sm text-muted mb-1">Reception room</span><a class="nav-link fs-lg p-0" href="tel:+178630056044">+1 (786) 300 560 44</a></li>
+                            <li><span class="d-block fs-sm text-muted mb-1">Main contact</span><a class="nav-link fs-lg p-0" href="tel:+447535982692">+44 (0) 7535 982692</a></li>
                         </ul>
                     </div>
                 </div>
@@ -42,11 +41,11 @@
                     <div class="card-body">
                         <h4 class="card-title mb-4">Schedule</h4>
                         <ul class="list-unstyled mb-0">
-                            <li class="pb-1 mb-2"><span class="d-block fs-sm text-muted mb-1">Mon - Thu</span>
-                                <div class="d-flex align-items-center"><span class="text-nav fs-lg fw-medium">10:00</span><span class="border-top mx-4" style="width: 36px; height: 1px;"></span><span class="text-nav fs-lg fw-medium">22:00</span></div>
+                            <li class="pb-1 mb-2"><span class="d-block fs-sm text-muted mb-1">Mon - Fri</span>
+                                <div class="d-flex align-items-center"><span class="text-nav fs-lg fw-medium">08:00</span><span class="border-top mx-4" style="width: 36px; height: 1px;"></span><span class="text-nav fs-lg fw-medium">17:00</span></div>
                             </li>
-                            <li><span class="d-block fs-sm text-muted mb-1">Fri - Sat</span>
-                                <div class="d-flex align-items-center"><span class="text-nav fs-lg fw-medium">10:00</span><span class="border-top mx-4" style="width: 36px; height: 1px;"></span><span class="text-nav fs-lg fw-medium">20:00</span></div>
+                            <li><span class="d-block fs-sm text-muted mb-1">Sat</span>
+                                <div class="d-flex align-items-center"><span class="text-nav fs-lg fw-medium">09:00</span><span class="border-top mx-4" style="width: 36px; height: 1px;"></span><span class="text-nav fs-lg fw-medium">16:00</span></div>
                             </li>
                         </ul>
                     </div>
@@ -58,8 +57,7 @@
                     <div class="card-body">
                         <h4 class="card-title mb-4">Email</h4>
                         <ul class="list-unstyled mb-0">
-                            <li class="pb-1 mb-2"><span class="d-block fs-sm text-muted mb-1">Main office</span><a class="nav-link fs-lg p-0" href="mailto:office@example.com">office@example.com</a></li>
-                            <li><span class="d-block fs-sm text-muted mb-1">Reception room</span><a class="nav-link fs-lg p-0" href="mailto:reception@example.com">reception@example.com</a></li>
+                            <li class="pb-1 mb-2"><span class="d-block fs-sm text-muted mb-1">Main office</span><a class="nav-link fs-lg p-0" href="mailto:mark@masc2606.co.uk">mark@masc2606.co.uk</a></li>
                         </ul>
                     </div>
                 </div>

@@ -162,7 +162,7 @@
                     <div class="dark-mode position-relative zindex-2 py-sm-3 py-md-4" style="max-width: 360px;">
                         <h2 class="h1">Want to discuss your project?</h2>
                         <p class="mb-0">Use the link to our contact page or email us today. </p>
-                        <div class="d-flex flex-column flex-sm-row align-items-center pt-3 mt-3 mt-lg-4"><a class="btn btn-light w-100 w-sm-auto me-sm-4 mb-2 mb-sm-0" href="{{ route('contact') }}">Contact us</a><a class="d-inline-block text-white fw-medium p-2" href="mailto:">lee@regency-ceg.com</a></div>
+                        <div class="d-flex flex-column flex-sm-row align-items-center pt-3 mt-3 mt-lg-4"><a class="btn btn-light w-100 w-sm-auto me-sm-4 mb-2 mb-sm-0" href="{{ route('contact') }}">Contact us</a><a class="d-inline-block text-white fw-medium p-2" href="mailto:mark@masc2606.co.uk">mark@masc2606.co.uk</a></div>
                     </div>
                 </div>
             </div>
