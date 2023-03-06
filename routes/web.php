@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,9 +22,10 @@ Route::get('/services', function () {
     return view('services');
 })->name('services');
 
-Route::get('/contact', function () {
-    return view('contact');
-})->name('contact');
+Route::controller(ContactController::class)->group(function (){
+    Route::get('/contact', 'view')->name('contact');
+    Route::post('/contact', 'send')->name('contact.send');
+});
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/admin', function () {
     return view('admin');
