@@ -84,23 +84,23 @@
                 <div class="row g-4">
                     <div class="col-sm-6">
                         <label class="form-label fs-base" for="name">Name</label>
-                        <input class="form-control form-control-lg" type="text" placeholder="Your name" required id="name">
+                        <input class="form-control form-control-lg" name="name" type="text" placeholder="Your name" required id="name">
                     </div>
                     <div class="col-sm-6">
                         <label class="form-label fs-base" for="company">Company</label>
-                        <input class="form-control form-control-lg" type="text" placeholder="Your company name" id="company">
+                        <input class="form-control form-control-lg" name="company" type="text" placeholder="Your company name" id="company">
                     </div>
                     <div class="col-sm-6">
                         <label class="form-label fs-base" for="email">Email</label>
-                        <input class="form-control form-control-lg" type="email" placeholder="Email address" required id="email">
+                        <input class="form-control form-control-lg" type="email" name="email" placeholder="Email address" required id="email">
                     </div>
                     <div class="col-sm-6">
                         <label class="form-label fs-base" for="phone">Phone</label>
-                        <input class="form-control form-control-lg" type="text" placeholder="Phone number" id="phone">
+                        <input class="form-control form-control-lg" type="text" name="phone" placeholder="Phone number" id="phone">
                     </div>
                     <div class="col-sm-12">
                         <label class="form-label fs-base" for="message">Details</label>
-                        <textarea class="form-control form-control-lg" rows="6" placeholder="Enter your message here..." required id="message"></textarea>
+                        <textarea class="form-control form-control-lg" rows="6" name="message" placeholder="Enter your message here..." required id="message"></textarea>
                     </div>
                     <div class="col-sm-12 text-center pt-4">
                         <button class="btn btn-lg btn-light" type="submit">Send a request</button>
